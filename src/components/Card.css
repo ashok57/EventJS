@@ -1,0 +1,11 @@
+.event {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px;
+  width: 300px;
+}
+
+.event h2 {
+  margin-top: 0;
+}
